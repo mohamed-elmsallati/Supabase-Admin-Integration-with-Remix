@@ -45,6 +45,7 @@ export default function Dashboard() {
         <div className="px-4 mx-auto max-w-7xl">
           <Outlet />
         </div>
+        <div><data value="String"><h1>jhfj</h1></data></div>
       </main>
     </>
   );
