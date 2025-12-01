@@ -24,6 +24,7 @@ export const links: LinksFunction = () => [
 ];
 
 export default function App() {
+  console.log("App rendered");
   return (
     <html lang="en">
       <head>
